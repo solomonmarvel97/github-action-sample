@@ -1,4 +1,4 @@
-// all functions here
+// all functions in a single file
 
 module.exports = {
     add: (a,b) => a + b,
